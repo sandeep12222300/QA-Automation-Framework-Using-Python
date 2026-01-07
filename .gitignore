@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# PyTest
+.pytest_cache/
+.cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (optional - keep if you want to track reports)
+# reports/
+
+# Screenshots (keep directory structure but ignore specific screenshots if needed)
+# screenshots/*.png
