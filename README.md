@@ -17,9 +17,9 @@
 </p>
 
 [Features](#-features) •
+[Project Structure](#-project-structure) •
 [Installation](#-installation) •
 [Usage](#-usage) •
-[Project Structure](#-project-structure) •
 [Contributing](#-contributing)
 
 </div>
