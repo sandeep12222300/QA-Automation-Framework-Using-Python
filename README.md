@@ -322,6 +322,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [B Sandeep](https://github.com/sandeep12222300)
-
-</div>
